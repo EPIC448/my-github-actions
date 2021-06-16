@@ -5,7 +5,7 @@ function mooncakeSays(message) {
     return `${mooncake} chookity?`;
   }
 
-  return `${mooncake} ${message}`;
+  return `${mooncake} ${messag}`;
 }
 
 module.exports.mooncakeSays = mooncakeSays;
